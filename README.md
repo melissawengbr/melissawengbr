@@ -1,10 +1,6 @@
 ### Hi, I´m Melissa! 👋
 
 - 🔭🔒I’m currently pursuing my Bachelor´s in Cyber Security Degree at FIAP (São Paulo-SP).
-
-
-- ![Melissa´s GitHub stats](https://github-readme-stats.vercel.app/api?username=melissawengbr&show_icons=true&theme=dracula)
-
 - ✉️ You can shoot me an e-mail at meweng@gmail.com
 
 <!-- ✉️ You can shoot me at (https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
